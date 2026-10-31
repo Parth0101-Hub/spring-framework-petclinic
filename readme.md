@@ -234,7 +234,7 @@ For pull requests, editor preferences are available in the [editor config](.edit
 In WeekendBatch Jenkins Project Completed!!!!!
 
 
-*****************************************************************Suchith K****************************************************************
+*****************************************************************parth****************************************************************
 
 Project is about to complete once we configure the notification
 Project Completed for m1 batch in Pune (Offline),
